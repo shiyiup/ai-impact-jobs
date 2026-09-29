@@ -1,0 +1,10 @@
+# 项目记忆与 AI 协作数据（含内部技术细节，不进公开仓库）
+.workbuddy/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
